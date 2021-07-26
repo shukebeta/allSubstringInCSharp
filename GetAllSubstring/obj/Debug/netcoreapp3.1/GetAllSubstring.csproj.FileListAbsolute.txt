@@ -1,0 +1,13 @@
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/bin/Debug/netcoreapp3.1/GetAllSubstring
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/bin/Debug/netcoreapp3.1/GetAllSubstring.deps.json
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/bin/Debug/netcoreapp3.1/GetAllSubstring.runtimeconfig.json
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/bin/Debug/netcoreapp3.1/GetAllSubstring.runtimeconfig.dev.json
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/bin/Debug/netcoreapp3.1/GetAllSubstring.dll
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/bin/Debug/netcoreapp3.1/GetAllSubstring.pdb
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.csprojAssemblyReference.cache
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.csproj.CoreCompileInputs.cache
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.AssemblyInfoInputs.cache
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.AssemblyInfo.cs
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.dll
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.pdb
+/home/davidwei/RiderProjects/AllSubStringsInCSharp/GetAllSubstring/obj/Debug/netcoreapp3.1/GetAllSubstring.genruntimeconfig.cache
